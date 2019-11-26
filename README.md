@@ -13,3 +13,10 @@ Collection of programming assignments of Andrew Ng's Deep Learning Specializatio
 
 - `scipy.ndimage.imread()` is deprecated; use `plt.imread()` instead
 - `scipy.misc.imresize()` is deprecated; use `resize()` from `skimage.transform` instead
+
+## Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+
+- [Week 1: Initialization](improving-deep-neural-networks/initialization/Initialization.ipynb)
+- [Week 1: Regularization](improving-deep-neural-networks/regularization/Regularization.ipynb)
+- [Week 1: Gradient Checking](improving-deep-neural-networks/gradient-checking/Gradient-Checking.ipynb)
+- [Week 2: Optimization](improving-deep-neural-networks/optimization-methods/Optimization-methods.ipynb)
