@@ -20,3 +20,6 @@ Collection of programming assignments of Andrew Ng's Deep Learning Specializatio
 - [Week 1: Regularization](improving-deep-neural-networks/regularization/Regularization.ipynb)
 - [Week 1: Gradient Checking](improving-deep-neural-networks/gradient-checking/Gradient-Checking.ipynb)
 - [Week 2: Optimization](improving-deep-neural-networks/optimization-methods/Optimization-methods.ipynb)
+- [Week 3: Tensorflow Tutorial](improving-deep-neural-networks/tensorflow-tutorial/Tensorflow_Tutorial.ipynb)
+
+> Note: week 3 assignment uses an old version of Tensorflow, not compatible with 2.0.
