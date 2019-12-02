@@ -23,3 +23,9 @@ Collection of programming assignments of Andrew Ng's Deep Learning Specializatio
 - [Week 3: Tensorflow Tutorial](improving-deep-neural-networks/tensorflow-tutorial/Tensorflow_Tutorial.ipynb)
 
 > Note: week 3 assignment uses an old version of Tensorflow, not compatible with 2.0.
+
+## Structuring Machine Learning Projects
+
+- [Week 1 Quiz: Bird Recognition](structuring-machine-learning-projects/Week-1-Quiz-Bird-recognition-in-the-city-of-Peacetopia.md)
+- [Week 2 Quiz: Autonomous Driving](structuring-machine-learning-projects/Week-2-Quiz-Autonomous-driving.md)
+
